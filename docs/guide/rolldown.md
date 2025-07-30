@@ -91,7 +91,7 @@ While Rolldown aims to be a drop-in replacement for Rollup, there are features t
 
 ### Option Validation Warnings
 
-Rolldown outputs an warning when unknown or invalid options are passed. Because some options available in Rollup are not supported by Rolldown, you may encounter warnings based on the options you or the meta framework you use set. Below, you can find an example of such an warning message:
+Rolldown outputs a warning when unknown or invalid options are passed. Because some options available in Rollup are not supported by Rolldown, you may encounter warnings based on the options you or the meta framework you use set. Below, you can find an example of such an warning message:
 
 > Warning validate output options.
 >
